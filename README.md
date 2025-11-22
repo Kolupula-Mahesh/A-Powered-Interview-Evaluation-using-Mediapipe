@@ -13,7 +13,7 @@ This project is an AI-powered system that conducts virtual interviews. It evalua
 - Hybrid system using MediaPipe or OpenCV fallback
 
 ## Requirements
-- Python 3.8+
+- Python 
 - OpenCV (`cv2`)
 - MediaPipe (`mediapipe`) 
 - SoundDevice (`sounddevice`)
